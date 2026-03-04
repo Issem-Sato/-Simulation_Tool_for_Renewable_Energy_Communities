@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Filippo",
+    "role": "prosumer",
+    "num": 1,
+    "voltage_level": "BT",
+    "new_plant": true,
+    "commissioning_month": "0",
+    "installed_capacity_kw": 17.0,
+    "prod_mode": "totale",
+    "selected_areas": [],
+    "has_battery": true,
+    "battery_capacity_kwh": 10.0,
+    "battery_dod": 0.8,
+    "battery_roundtrip_eff": 0.9,
+    "battery_derating_factor": 0.0,
+    "battery_init_soc_perc": 0.2
+  },
+  {
+    "id": 2,
+    "name": "Giorgio",
+    "role": "consumer",
+    "num": 1,
+    "voltage_level": "BT",
+    "new_plant": false,
+    "commissioning_month": "",
+    "installed_capacity_kw": 0.0,
+    "prod_mode": "totale",
+    "selected_areas": [],
+    "has_battery": false,
+    "battery_capacity_kwh": 0.0,
+    "battery_dod": 0.8,
+    "battery_roundtrip_eff": 0.9,
+    "battery_derating_factor": 0.0,
+    "battery_init_soc_perc": 0.2
+  }
+]

@@ -1,0 +1,1 @@
+# schede_consumatori package

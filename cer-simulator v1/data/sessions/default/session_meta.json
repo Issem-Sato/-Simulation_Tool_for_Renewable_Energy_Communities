@@ -1,0 +1,15 @@
+{
+  "comune_query": "doberdò",
+  "start": "2023-01-01",
+  "end": "2023-12-31",
+  "seed": 2025,
+  "comune": "Doberdò del Lago",
+  "location": {
+    "name": "Doberdò del Lago",
+    "admin1": "Friuli Venezia Giulia",
+    "country_code": "IT",
+    "lat": 45.84444,
+    "lon": 13.53908,
+    "timezone": "Europe/Rome"
+  }
+}
