@@ -18,3 +18,13 @@ The full explanation is in file thesis.pdf
 - Consumption profile generation and aggregation
 - Energy balancing and shared energy computation (hourly)
 - Economic evaluation with tariffs/incentives assumptions and scenario comparisons
+
+## Installation and Run (Windows)
+
+1. Install **Anaconda Navigator**: https://www.anaconda.com/products/navigator  
+2. Extract the project `.zip` to your **Desktop** (or any folder you prefer).  
+3. Open the `cer-simulator` folder.  
+4. Run **as Administrator**: `setup_structure.bat`  
+   - This creates the environment and downloads the required libraries.  
+5. Run **as Administrator**: `start_cer.bat`  
+   - The simulator will open in your browser.
