@@ -1,0 +1,17 @@
+{
+  "cache_key": {
+    "provider": "open-meteo",
+    "lat": 45.84444,
+    "lon": 13.53908,
+    "start_date": "2023-01-01",
+    "end_date": "2023-12-31",
+    "timezone": "UTC",
+    "hourly": [
+      "temperature_2m",
+      "wind_direction_100m",
+      "wind_speed_100m"
+    ],
+    "wind_speed_unit": "ms",
+    "temperature_unit": "celsius"
+  }
+}
